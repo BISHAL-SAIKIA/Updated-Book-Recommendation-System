@@ -13,6 +13,7 @@ The system takes a book name as input and recommends 5 similar books. These reco
 ## 🗂️ Dataset
 
 Three CSV files are used in this project:
+Link to kaggle datset : https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
 - `Books.csv` — Metadata of books (title, image URL, etc.)
 - `Users.csv` — User demographic information
